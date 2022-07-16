@@ -1,0 +1,2 @@
+# StudentComprehensiveQualityEvaluationManagementSystem
+学生综合素质测评管理系统-毕业设计
